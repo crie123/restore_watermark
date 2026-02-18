@@ -1,0 +1,9 @@
+[package]
+name = "restore_watermark"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ttf-parser = "0.20"
+unicode-segmentation = "1.11"
+rayon = "1.8"
