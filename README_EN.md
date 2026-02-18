@@ -522,19 +522,6 @@ for line in document:
 
 ---
 
-## 🚀 Future Enhancements
-
-- [ ] Real PDF file integration
-- [ ] Parallel beam search (Rayon)
-- [ ] Additional language support
-- [ ] Machine learning weight training
-- [ ] REST API server
-- [ ] Web UI
-- [ ] GPU acceleration
-- [ ] Database backend
-
----
-
 ## 📄 License
 
 MIT License - See LICENSE file for details
